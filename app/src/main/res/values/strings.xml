@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">LocalizaUsuarioApp</string>
     <string name="title_activity_maps">Map</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="enviar">Enviar</string>
 </resources>
